@@ -1,0 +1,23 @@
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.csprojResolveAssemblyReference.cache
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.Properties.Resources.resources
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.csproj.GenerateResource.Cache
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.exe.config
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.exe
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.pdb
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Convertor&Curs Valutar.exe
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Convertor&Curs Valutar.pdb
+C:\Users\robyh\OneDrive\Documents\Visual Studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.CursValutar.resources
+C:\Users\robyh\OneDrive\Documents\Visual Studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.SchimbValutar.resources
+C:\Users\robyh\onedrive\documents\visual studio 2017\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.PaginaPrincipala.resources
+E:\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.exe.config
+E:\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.exe
+E:\Projects\Curs_Valutar\Curs_Valutar\bin\Debug\Convertor&Curs Valutar.pdb
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.csprojAssemblyReference.cache
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.CursValutar.resources
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.PaginaPrincipala.resources
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.Properties.Resources.resources
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.SchimbValutar.resources
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.csproj.GenerateResource.cache
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Curs_Valutar.csproj.CoreCompileInputs.cache
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Convertor&Curs Valutar.exe
+E:\Projects\Curs_Valutar\Curs_Valutar\obj\Debug\Convertor&Curs Valutar.pdb
